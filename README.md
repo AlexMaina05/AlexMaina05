@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-alexmaina.dev-00e5ff?style=for-the-badge&logoColor=black)](https://alexmaina.dev/)
 [![Bio Hub](https://img.shields.io/badge/🔗_Bio_Hub-bio.alexmaina.dev-7c3aed?style=for-the-badge&logoColor=white)](https://bio.alexmaina.dev/)
 [![Guide Tecniche](https://img.shields.io/badge/📚_Guide_Tecniche-alexmaina.dev%2Fguide-10b981?style=for-the-badge&logoColor=white)](https://alexmaina.dev/guide/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--7003--7247-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7003-7247)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alessandro_Mainardi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-mainardi-ab812823b/)
 [![X/Twitter](https://img.shields.io/badge/Twitter-@Alex__Maina__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Alex_Maina_)
 [![Email](https://img.shields.io/badge/Email-maina@alexmaina.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maina@alexmaina.dev)
@@ -23,6 +24,7 @@
   "role": "Software Developer & Computer Engineering Student",
   "institution": "Alma Mater Studiorum - Università di Bologna (UniBo)",
   "degree_course": "Ingegneria Informatica (Computer Science & Engineering)",
+  "orcid": "https://orcid.org/0009-0003-7003-7247",
   "location": "Bologna, Italy 🇮🇹",
   "core_competencies": {
     "cloud_enterprise": ["Microsoft 365", "Microsoft Entra ID", "Microsoft Azure", "Intune MDM"],
