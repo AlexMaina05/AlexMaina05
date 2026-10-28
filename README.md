@@ -6,8 +6,10 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-alexmaina.dev-00e5ff?style=for-the-badge&logoColor=black)](https://alexmaina.dev/)
 [![Bio Hub](https://img.shields.io/badge/🔗_Bio_Hub-bio.alexmaina.dev-7c3aed?style=for-the-badge&logoColor=white)](https://bio.alexmaina.dev/)
-[![Guide Tecniche](https://img.shields.io/badge/📚_Guide_Tecniche-alexmaina.dev%2Fguide-10b981?style=for-the-badge&logoColor=white)](https://alexmaina.dev/guide/)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23692700-007ec6?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.5281/zenodo.23692700)
+[![Wikidata](https://img.shields.io/badge/Wikidata-Q141886579-339966?style=for-the-badge&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q141886579)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--7003--7247-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7003-7247)
+[![Guide Tecniche](https://img.shields.io/badge/📚_Guide_Tecniche-alexmaina.dev%2Fguide-10b981?style=for-the-badge&logoColor=white)](https://alexmaina.dev/guide/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alessandro_Mainardi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-mainardi-ab812823b/)
 [![X/Twitter](https://img.shields.io/badge/Twitter-@Alex__Maina__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Alex_Maina_)
 [![Email](https://img.shields.io/badge/Email-maina@alexmaina.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maina@alexmaina.dev)
@@ -43,32 +45,26 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🚀 GitOps Auto-Deployer</h3>
+      <p align="center">
+        <a href="https://doi.org/10.5281/zenodo.23692700"><b>[DOI Zenodo ↗]</b></a> • 
+        <a href="https://github.com/AlexMaina05/gitops_deployer"><b>[Repository GitHub]</b></a>
+      </p>
+      <p>Microservizio asincrono sviluppato in Python con FastAPI per la continuous delivery di stack containerizzati con sicurezza crittografica HMAC-SHA256 e notifiche Telegram/n8n:</p>
+      <ul>
+        <li><b>118 Test Unitari & Adversarial:</b> Suite completa con prevenzione timing attack e command injection.</li>
+        <li><b>DOI Cern/Zenodo:</b> Software archiviato e citabile scientificamente (DOI 10.5281/zenodo.23692700).</li>
+      </ul>
+      <p><b>Stack:</b> <code>Python 3.12</code> <code>FastAPI</code> <code>Docker Compose</code> <code>HMAC-SHA256</code> <code>Telegram API</code> <code>uv</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🏛️ HP Fortress Homelab</h3>
       <p align="center">
         <a href="https://alexmaina.dev/hp-fortress-homelab/"><b>[Portale Live ↗]</b></a> • 
-        <a href="https://github.com/AlexMaina05/hp-fortress-homelab"><b>[Repository GitHub]</b></a> •
-        <a href="https://alexmaina.dev/hp-fortress-homelab/docs/HP_Fortress_TDD.pdf"><b>[Documentazione TDD]</b></a>
+        <a href="https://github.com/AlexMaina05/hp-fortress-homelab"><b>[Repository GitHub]</b></a>
       </p>
-      <p>Infrastruttura server enterprise ibrida on-premise operativa 24/7 basata su hardware ricondizionato HP ProLiant. Progettata per simulare standard di produzione data center reali:</p>
-      <ul>
-        <li><b>Ingress & Zero-Trust:</b> Cloudflare Tunnel outbound (Zero WAN open ports) e rete privata mesh crittografata WireGuard / Tailscale.</li>
-        <li><b>Virtualizzazione & Calcolo:</b> Windows Server 2025 host, Hyper-V con isolamento hardware e microservizi Docker.</li>
-        <li><b>Storage Resiliente & DR:</b> Storage Spaces con file system ReFS (auto-healing contro il bit-rot) e strategia di backup 3-2-1 Veeam.</li>
-      </ul>
+      <p>Infrastruttura server enterprise ibrida on-premise operativa 24/7 su Windows Server 2025, Hyper-V, ReFS e rete Zero-Trust Cloudflare/Tailscale.</p>
       <p><b>Stack:</b> <code>Windows Server 2025</code> <code>Hyper-V</code> <code>Docker</code> <code>Tailscale</code> <code>Cloudflare</code> <code>ReFS</code> <code>Veeam</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 Officina Control Tower</h3>
-      <p align="center">
-        <a href="https://github.com/AlexMaina05/auto-se"><b>[Repository GitHub ↗]</b></a>
-      </p>
-      <p>Web application gestionale full-stack monolitica a basso consumo di risorse per il tracciamento in tempo reale dei flussi di lavoro in officina automotive:</p>
-      <ul>
-        <li><b>State Machine Operativa:</b> Tracciamento avanzamento lavorazioni (preventivo, autorizzazione, officina, consegna) e approntamento veicoli nuovi.</li>
-        <li><b>SLA Monitor:</b> Rilevamento automatico e allarme ritardi oltre 48 ore nello stato di autorizzazione commesse.</li>
-        <li><b>Visual Identification:</b> Gestione dinamica flotte aziendali con codifica cromatica a 360° per rapida identificazione visiva.</li>
-      </ul>
-      <p><b>Stack:</b> <code>Next.js 15 (App Router)</code> <code>React 19</code> <code>TypeScript</code> <code>SQLite</code> <code>Drizzle ORM</code> <code>Docker</code></p>
     </td>
   </tr>
   <tr>
@@ -145,6 +141,12 @@ Documento regolarmente le mie sperimentazioni, architetture e percorsi di studio
 | Categoria | Argomento Guida | Risorsa & Documentazione |
 | :--- | :--- | :--- |
 | ☁️ **Cloud M365** | Percorsi Certificazioni Microsoft 365, Copilot & Azure | [ms365/](https://alexmaina.dev/ms365/) |
+| 🐳 **Docker & SSL** | Risolvere Loop "Too Many Redirects" su WordPress Docker | [wordpress-docker-redirect-loop/](https://alexmaina.dev/wordpress-docker-redirect-loop/) |
+| 🛡️ **Entra ID** | Risoluzione Errore AADSTS50011 (Redirect URI Mismatch) | [entra-id-redirect-uri-aadsts50011/](https://alexmaina.dev/entra-id-redirect-uri-aadsts50011/) |
+| 💾 **Storage QNAP** | QNAP Container Station: Conflitti Porte 80/443 & Reverse Proxy | [qnap-docker-reverse-proxy/](https://alexmaina.dev/qnap-docker-reverse-proxy/) |
+| ⚡ **M365 Automazione** | Rinnovo Automatico Tenant M365 E5 Developer (90 Giorni) | [m365-developer-rinnovo-automatico/](https://alexmaina.dev/m365-developer-rinnovo-automatico/) |
+| 🔒 **Zero-Trust** | Tailscale Subnet Router & Pi-hole Anti-CGNAT | [tailscale-pihole-homelab-cgnat/](https://alexmaina.dev/tailscale-pihole-homelab-cgnat/) |
+| 🐍 **Modern Python** | Modern Python con uv, Lockfile Deterministico & CI/CD Ultra-Rapida | [python-uv-github-actions/](https://alexmaina.dev/python-uv-github-actions/) |
 | 🔧 **M365 Sandbox** | Configurazione Developer Zero-Risk & Sync-Magic | [configurazione-developer-zerorisk/](https://alexmaina.dev/configurazione-developer-zerorisk/) |
 | 🛡️ **Cybersecurity** | Guida alla Sicurezza Informatica Base & Privacy | [sicurezza/](https://alexmaina.dev/sicurezza/) |
 | 🌐 **Hosting NAS** | Web App WordPress e Database su NAS QNAP | [wordpress-su-nas/](https://alexmaina.dev/wordpress-su-nas/) |
