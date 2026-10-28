@@ -32,7 +32,8 @@
     "cloud_enterprise": ["Microsoft 365", "Microsoft Entra ID", "Microsoft Azure", "Intune MDM"],
     "systems_infrastructure": ["Windows Server 2025", "Hyper-V", "Storage Spaces ReFS", "Docker"],
     "zero_trust_networking": ["Tailscale WireGuard Mesh", "Cloudflare Outbound Tunnels"],
-    "software_engineering": ["TypeScript", "Next.js 15", "React 19", "Python", "SQLite / Drizzle"]
+    "software_engineering": ["Swift 5.10", "TypeScript", "Next.js 15", "React 19", "Python"],
+    "health_informatics": ["HL7 CDA R2", "Apple HealthKit", "LOINC", "Zero-Cloud Mobile Edge"]
   },
   "engineering_ethos": "Building resilient, sovereign, and zero-compromise systems"
 }
@@ -43,6 +44,24 @@
 ### ⭐ Showcase Progetti & Architetture
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">⚕️ RosettaHealth — Mobile Edge Zero-Cloud &amp; FSE 2.0</h3>
+      <p align="center">
+        <a href="https://alexmaina.dev/Health-App/"><b>[Landing &amp; Docs ↗]</b></a> • 
+        <a href="https://alexmaina.dev/Health-App/rosettahealth-monografia-tecnica.pdf"><b>[Monografia Tecnica A4 (PDF) ↗]</b></a> • 
+        <a href="https://doi.org/10.5281/zenodo.23692700"><b>[DOI Zenodo ↗]</b></a> • 
+        <a href="https://github.com/AlexMaina05/Health-App"><b>[Repository GitHub]</b></a>
+      </p>
+      <p>Architettura software nativa iOS/watchOS per l'interoperabilità semantica deterministica tra Fascicolo Sanitario Elettronico (HL7 CDA R2) e Apple HealthKit con tecnologia Zero-Cloud e crittografia hardware Secure Enclave conforme GDPR Art. 9:</p>
+      <ul>
+        <li><b>Monografia Scientifica Peer-Reviewed (40 Pagine ISO A4):</b> Documentazione teorica ed empirica completa (<a href="https://doi.org/10.5281/zenodo.23692700">DOI: 10.5281/zenodo.23692700</a>).</li>
+        <li><b>Motore di Transcodifica Deterministico:</b> Mappatura ontologica bidirezionale LOINC ↔ HealthKit con garanzie matematiche di non-alterazione semantica e latenze on-device &lt; 100ms.</li>
+        <li><b>Privacy-by-Design &amp; Identity Firewall:</b> Elaborazione esclusivamente on-device, nessun dato trasmesso a server terzi o cloud.</li>
+      </ul>
+      <p><b>Stack:</b> <code>Swift 5.10</code> <code>Apple HealthKit</code> <code>Core Data</code> <code>CryptoKit</code> <code>HL7 CDA R2</code> <code>LOINC Standard</code> <code>Zero-Cloud</code></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚀 GitOps Auto-Deployer</h3>
