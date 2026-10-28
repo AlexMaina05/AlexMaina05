@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-alexmaina.dev-00e5ff?style=for-the-badge&logoColor=black)](https://alexmaina.dev/)
 [![Bio Hub](https://img.shields.io/badge/🔗_Bio_Hub-bio.alexmaina.dev-7c3aed?style=for-the-badge&logoColor=white)](https://bio.alexmaina.dev/)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23692700-007ec6?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.5281/zenodo.23692700)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23735226-007ec6?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.5281/zenodo.23735226)
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q141886579-339966?style=for-the-badge&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q141886579)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--7003--7247-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7003-7247)
 [![Guide Tecniche](https://img.shields.io/badge/📚_Guide_Tecniche-alexmaina.dev%2Fguide-10b981?style=for-the-badge&logoColor=white)](https://alexmaina.dev/guide/)
@@ -50,12 +50,12 @@
       <p align="center">
         <a href="https://alexmaina.dev/Health-App/"><b>[Landing &amp; Docs ↗]</b></a> • 
         <a href="https://alexmaina.dev/Health-App/rosettahealth-monografia-tecnica.pdf"><b>[Monografia Tecnica A4 (PDF) ↗]</b></a> • 
-        <a href="https://doi.org/10.5281/zenodo.23692700"><b>[DOI Zenodo ↗]</b></a> • 
+        <a href="https://doi.org/10.5281/zenodo.23735226"><b>[DOI Zenodo ↗]</b></a> • 
         <a href="https://github.com/AlexMaina05/Health-App"><b>[Repository GitHub]</b></a>
       </p>
       <p>Architettura software nativa iOS/watchOS per l'interoperabilità semantica deterministica tra Fascicolo Sanitario Elettronico (HL7 CDA R2) e Apple HealthKit con tecnologia Zero-Cloud e crittografia hardware Secure Enclave conforme GDPR Art. 9:</p>
       <ul>
-        <li><b>Monografia Scientifica Peer-Reviewed (41 Pagine ISO A4):</b> Documentazione teorica ed empirica completa (<a href="https://doi.org/10.5281/zenodo.23692700">DOI: 10.5281/zenodo.23692700</a>).</li>
+        <li><b>Monografia Scientifica Peer-Reviewed (41 Pagine ISO A4):</b> Documentazione teorica ed empirica completa (<a href="https://doi.org/10.5281/zenodo.23735226">DOI: 10.5281/zenodo.23735226</a>).</li>
         <li><b>Motore di Transcodifica Deterministico:</b> Mappatura ontologica bidirezionale LOINC ↔ HealthKit con garanzie matematiche di non-alterazione semantica e latenze on-device &lt; 100ms.</li>
         <li><b>Privacy-by-Design &amp; Identity Firewall:</b> Elaborazione esclusivamente on-device, nessun dato trasmesso a server terzi o cloud.</li>
       </ul>
@@ -66,13 +66,13 @@
     <td width="50%" valign="top">
       <h3 align="center">🚀 GitOps Auto-Deployer</h3>
       <p align="center">
-        <a href="https://doi.org/10.5281/zenodo.23692700"><b>[DOI Zenodo ↗]</b></a> • 
+        <a href="https://doi.org/10.5281/zenodo.23735226"><b>[DOI Zenodo ↗]</b></a> • 
         <a href="https://github.com/AlexMaina05/gitops_deployer"><b>[Repository GitHub]</b></a>
       </p>
       <p>Microservizio asincrono sviluppato in Python con FastAPI per la continuous delivery di stack containerizzati con sicurezza crittografica HMAC-SHA256 e notifiche Telegram/n8n:</p>
       <ul>
         <li><b>118 Test Unitari & Adversarial:</b> Suite completa con prevenzione timing attack e command injection.</li>
-        <li><b>DOI Cern/Zenodo:</b> Software archiviato e citabile scientificamente (DOI 10.5281/zenodo.23692700).</li>
+        <li><b>DOI Cern/Zenodo:</b> Software archiviato e citabile scientificamente (DOI 10.5281/zenodo.23735226).</li>
       </ul>
       <p><b>Stack:</b> <code>Python 3.12</code> <code>FastAPI</code> <code>Docker Compose</code> <code>HMAC-SHA256</code> <code>Telegram API</code> <code>uv</code></p>
     </td>
