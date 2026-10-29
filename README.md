@@ -46,16 +46,16 @@
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">⚕️ RosettaHealth — Mobile Edge Zero-Cloud &amp; FSE 2.0</h3>
+      <h3 align="center">⚕️ RosettaEdge — Mobile Edge Zero-Cloud &amp; FSE 2.0</h3>
       <p align="center">
         <a href="https://alexmaina.dev/Health-App/"><b>[Landing &amp; Docs ↗]</b></a> • 
-        <a href="https://alexmaina.dev/Health-App/rosettahealth-monografia-tecnica.pdf"><b>[Monografia Tecnica A4 (PDF) ↗]</b></a> • 
+        <a href="https://alexmaina.dev/Health-App/rosettaedge-monografia-tecnica.pdf"><b>[Monografia Tecnica A4 (PDF) ↗]</b></a> • 
         <a href="https://doi.org/10.5281/zenodo.23735226"><b>[DOI Zenodo ↗]</b></a> • 
         <a href="https://github.com/AlexMaina05/Health-App"><b>[Repository GitHub]</b></a>
       </p>
       <p>Architettura software nativa iOS/watchOS per l'interoperabilità semantica deterministica tra Fascicolo Sanitario Elettronico (HL7 CDA R2) e Apple HealthKit con tecnologia Zero-Cloud e crittografia hardware Secure Enclave conforme GDPR Art. 9:</p>
       <ul>
-        <li><b>Monografia Scientifica Peer-Reviewed (41 Pagine ISO A4):</b> Documentazione teorica ed empirica completa (<a href="https://doi.org/10.5281/zenodo.23735226">DOI: 10.5281/zenodo.23735226</a>).</li>
+        <li><b>Monografia Scientifica Peer-Reviewed (44 Pagine ISO A4):</b> Documentazione teorica ed empirica completa (<a href="https://doi.org/10.5281/zenodo.23735226">DOI: 10.5281/zenodo.23735226</a>).</li>
         <li><b>Motore di Transcodifica Deterministico:</b> Mappatura ontologica bidirezionale LOINC ↔ HealthKit con garanzie matematiche di non-alterazione semantica e latenze on-device &lt; 100ms.</li>
         <li><b>Privacy-by-Design &amp; Identity Firewall:</b> Elaborazione esclusivamente on-device, nessun dato trasmesso a server terzi o cloud.</li>
       </ul>
