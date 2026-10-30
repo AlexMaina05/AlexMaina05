@@ -48,10 +48,10 @@
     <td colspan="2" valign="top">
       <h3 align="center">⚕️ RosettaEdge — Mobile Edge Zero-Cloud &amp; FSE 2.0</h3>
       <p align="center">
-        <a href="https://alexmaina.dev/Health-App/"><b>[Landing &amp; Docs ↗]</b></a> • 
-        <a href="https://alexmaina.dev/Health-App/rosettaedge-monografia-tecnica.pdf"><b>[Monografia Tecnica A4 (PDF) ↗]</b></a> • 
+        <a href="https://alexmaina.dev/RosettaEdge/"><b>[Landing &amp; Docs ↗]</b></a> • 
+        <a href="https://alexmaina.dev/RosettaEdge/rosettaedge-monografia-tecnica.pdf"><b>[Monografia Tecnica A4 (PDF) ↗]</b></a> • 
         <a href="https://doi.org/10.5281/zenodo.23781231"><b>[DOI Zenodo ↗]</b></a> • 
-        <a href="https://github.com/AlexMaina05/Health-App"><b>[Repository GitHub]</b></a>
+        <a href="https://github.com/AlexMaina05/RosettaEdge"><b>[Repository GitHub]</b></a>
       </p>
       <p>Architettura software nativa iOS/watchOS per l'interoperabilità semantica deterministica tra Fascicolo Sanitario Elettronico (HL7 CDA R2) e Apple HealthKit con tecnologia Zero-Cloud e crittografia hardware Secure Enclave conforme GDPR Art. 9:</p>
       <ul>
